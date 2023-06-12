@@ -1,11 +1,23 @@
 /*  your css code here. If applicable */
-.container{
-	
-	
+
+#container{
+	width:600px;
+
 	background-color:#444;
 
 	padding:20px;
+	
+	
 }
+#container.h4{
+	font size:40px;
+}
+.body{
+	width:20px;
+	background-color:black;
+	
+}
+
 img{
 	width:190px;
 
